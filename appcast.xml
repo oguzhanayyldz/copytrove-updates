@@ -3,6 +3,17 @@
     <channel>
         <title>Copytrove</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Tue, 29 Sep 2026 17:27:49 +0300</pubDate>
+            <sparkle:version>958</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/oguzhanayyldz/copytrove-updates/releases/download/v0.2.1/Copytrove-0.2.1.zip" length="9668422" type="application/octet-stream" sparkle:edSignature="V2Sz7eabq0+Lkd05OncAttOUYVTd7UyhLkeUy3tcjG43TpJG2mTTaEjjjkK2Lw9fxTF/dFp2keOjtCFTOyjWAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/oguzhanayyldz/copytrove-updates/releases/download/v0.2.1/Copytrove958-931.delta" sparkle:deltaFrom="931" length="1097882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NLiYhxrPUeLU8JIoKSo/UFIts3nwyO7WmfHP6+ZaLrHzZXXJxYXznsXZL82Uqz15dWjPFEo8pR+VtFnzf9a7DQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Tue, 29 Sep 2026 09:33:52 +0300</pubDate>
             <sparkle:version>931</sparkle:version>
