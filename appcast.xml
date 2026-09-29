@@ -1,6 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Copytrove</title>
-  </channel>
+    <channel>
+        <title>Copytrove</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Tue, 29 Sep 2026 09:33:52 +0300</pubDate>
+            <sparkle:version>931</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/oguzhanayyldz/copytrove-updates/releases/download/v0.2.0/Copytrove-0.2.0.zip" length="9610469" type="application/octet-stream" sparkle:edSignature="S1c4rL1f59icUmAQbSVJNlk/nt42ZgbKWxv+AwN08Mm71ZdOAbBJMCSjlyTql/BejMBzw94iTe5U12TaMnPVBA=="/>
+        </item>
+    </channel>
 </rss>
