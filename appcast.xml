@@ -3,6 +3,14 @@
     <channel>
         <title>Copytrove</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Fri, 02 Oct 2026 22:15:51 +0300</pubDate>
+            <sparkle:version>1243</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/oguzhanayyldz/copytrove-updates/releases/download/v0.2.3/Copytrove-0.2.3.zip" length="10607750" type="application/octet-stream" sparkle:edSignature="AZENfWUuwNDguQUOH46Cu5K9QfMCH4aK9q2ESPDNU1aPmh8K8MolCg9vRi/EmPlN0k2nIsV+ddzps1NKfMAGCQ=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Fri, 02 Oct 2026 09:29:58 +0300</pubDate>
             <sparkle:version>1156</sparkle:version>
